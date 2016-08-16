@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Fuck Giuliana", "Fuck You", "Giuliana sucks", "Theater", "Math", "Architecture"];
+var things = [ "Fuck Giuliana", "Fuck You", "Cool", "Theater", "Math", "Architecture"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
