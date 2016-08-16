@@ -40,21 +40,21 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
-  "~*x Fuck Giuliana ~*y": [
-    "I know i hate Giuliana too",
+  "~*x  ~*y": [
+    "I",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
-  "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
-    "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
-    "What is the connection between me and ~y?",
+  "~*x Eric ~*y": [
+    "He's Amazing ~y?",
+    "I love him",
+    "He is a great person",
+    "Dont you know that he is amazing ~y Why not?",
+    "What in the world is better than Eric ~y?",
+    "Eric is my savior ~y?",
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
